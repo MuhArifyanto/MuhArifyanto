@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arif Mulyanto</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=I'm+a+Junior+Web+Developer;I'm+a+Junior+Mobile+App+Developer;Learning+CI4%2C+PHP%2C+Android+Studio" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=I'm+a+Junior+Web+Developer;I'm+a+Junior+Mobile+App+Developer;Learning+JS%2C+PHP%2C+Android+Studio" />
 </p>
 
 <p align="center">
